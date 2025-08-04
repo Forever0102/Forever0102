@@ -7,12 +7,23 @@
 ---
 
 ## 🚀 About Me
+I’m a Senior Full-Stack Developer with 9+ years of professional experience delivering end-to-end software solutions—from architectural design to production deployment. I specialize in building modern web applications, AI-enhanced platforms, and scalable APIs using technologies like Python, Angular, React, and cloud-native services.
 
-I'm a results-driven **Senior Full-Stack Engineer** with 9+ years of experience building scalable, high-impact applications across diverse domains including SaaS, FinTech, AI platforms, and enterprise systems.
+Over the years, I've contributed to startups, enterprise SaaS products, and AI-driven platforms across industries such as finance, e-commerce, healthcare, and travel tech. I thrive in fast-paced, agile environments, where I can collaborate cross-functionally and translate complex requirements into elegant, maintainable code.
 
-I specialize in building robust backend systems with **Python (Django, FastAPI)** and crafting dynamic frontends with **Angular** and **React**. My experience spans cloud infrastructure (AWS, Azure), DevOps (CI/CD, Docker, GitHub Actions), and AI/ML integration using frameworks like **TensorFlow** and **PyTorch**.
+🔍 Backend Expertise:
+I craft robust, secure, and high-performance APIs using Django, FastAPI, and Flask, with a focus on clean architecture, scalability, and testability. I’m well-versed in SQL and NoSQL databases (PostgreSQL, MongoDB), caching, and async processing with Celery and Redis.
 
-I'm passionate about clean code, performance optimization, and delivering real business value through engineering excellence.
+🎨 Frontend Focus:
+On the client side, I build rich, responsive UIs using Angular, React, TypeScript, and component libraries like Material UI and Tailwind CSS. I prioritize user experience, accessibility, and performance optimization.
+
+🤖 AI & Automation:
+I actively integrate AI/ML solutions into applications using tools like TensorFlow, PyTorch, OpenAI, and LangChain, enabling intelligent automation, natural language processing, and data-driven decision making.
+
+☁️ Cloud & DevOps:
+My deployments are cloud-first, leveraging Docker, CI/CD pipelines (GitHub Actions, GitLab CI), AWS, and Azure. I’m comfortable managing infrastructure-as-code and working within microservices ecosystems.
+
+🧠 I’m constantly learning, mentoring, and refining my skills. Whether it’s exploring AI agent frameworks or optimizing server performance, I enjoy pushing the boundaries of what’s possible with code.
 
 ---
 
