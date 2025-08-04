@@ -1,4 +1,4 @@
-<img width="64" height="23" alt="image" src="https://github.com/user-attachments/assets/f0d14e09-03e5-416e-8111-16b52a4702be" /># 👋 Hi, I'm Hiroshi Iwasaki
+# 👋 Hi, I'm Hiroshi Iwasaki
 
 
 🎯 **Senior Full-Stack Developer** | 💻 Python · Angular/React · AI/ML · DevOps  
