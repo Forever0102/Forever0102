@@ -29,23 +29,53 @@ My deployments are cloud-first, leveraging Docker, CI/CD pipelines (GitHub Actio
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS/SASS`
+As a senior full-stack engineer, I thrive across the entire development lifecycle — from designing scalable backend APIs to crafting high-performance UIs and integrating AI models. Here's what I work with:
 
-**Frontend:**  
-`Angular` · `React.js` · `Next.js` · `Tailwind CSS` · `Redux` · `Storybook`
+---
 
-**Backend:**  
-`Django` · `FastAPI` · `Flask` · `Node.js` · `Express`
+### 🧠 AI / Machine Learning
+- **Frameworks & Libraries:** `TensorFlow`, `PyTorch`, `scikit-learn`, `LangChain`, `spaCy`, `Transformers`
+- **Tools & APIs:** `OpenAI`, `Hugging Face`, `Vertex AI`, `Weights & Biases`
+- **Data:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-**Database:**  
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis`
+---
 
-**DevOps / Cloud:**  
-`Docker` · `GitHub Actions` · `AWS` · `Azure` · `Kubernetes` · `CI/CD`
+### 🌐 Frontend Development
+- **Core:** `React.js`, `Angular`, `Next.js`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `SASS`
+- **UI/UX:** `Tailwind CSS`, `Material UI`, `Bootstrap`, `Styled Components`
+- **Tooling:** `Storybook`, `Vite`, `Webpack`, `ESLint`, `Prettier`
+- **Testing:** `Jest`, `Testing Library`, `Cypress`, `Playwright`
 
-**AI/ML:**  
-`TensorFlow` · `PyTorch` · `LangChain` · `OpenAI API` · `Pandas` · `scikit-learn`
+---
+
+### 🔧 Backend Development
+- **Languages:** `Python`, `JavaScript`, `Node.js`, `TypeScript`
+- **Frameworks:** `FastAPI`, `Django`, `Flask`, `Express.js`, `GraphQL`
+- **Auth & Security:** `OAuth2`, `JWT`, `OpenID Connect`, `Role-Based Access Control (RBAC)`
+- **Microservices:** Event-driven architecture, pub/sub messaging, gRPC
+
+---
+
+### 🗄️ Databases & Data Systems
+- **SQL:** `PostgreSQL`, `MySQL`, `SQLite`, `Amazon RDS`
+- **NoSQL:** `MongoDB`, `Firebase`, `Redis`
+- **ORM/ODM:** `SQLAlchemy`, `Mongoose`, `Prisma`
+
+---
+
+### ☁️ Cloud & DevOps
+- **Cloud Platforms:** `AWS`, `Azure`, `Google Cloud`
+- **CI/CD:** `GitHub Actions`, `GitLab CI`, `CircleCI`
+- **Containers & Infra:** `Docker`, `Kubernetes`, `Terraform`, `Helm`
+- **Monitoring & Logging:** `Prometheus`, `Grafana`, `ELK Stack`, `Datadog`
+
+---
+
+### ⚙️ Tools & Practices
+- **Version Control:** `Git`, `GitHub`, `GitLab`, `Bitbucket`
+- **Agile:** Scrum, Kanban, Jira, Confluence
+- **Documentation:** `Markdown`, `Swagger / OpenAPI`, `Postman`, `Notion`
+- **Collaboration:** `Slack`, `Figma`, `Miro`, `Trello`
 
 ---
 
